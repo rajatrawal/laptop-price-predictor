@@ -76,9 +76,7 @@ To get laptop price predictions:
 
 - Input the laptop brand, type, CPU, RAM, GPU, OS, weight, touchscreen availability, IPS screen, screen size, speed (GHz), HDD, SSD, and more.
 
-## License
 
-This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
 
 ## Find Your Perfect Laptop
 
