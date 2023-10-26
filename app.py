@@ -25,7 +25,7 @@ touchscreen = st.selectbox('Touchscreen',['Yes','No'])
 ips = st.selectbox('IPS Display',['Yes','No'])
 
 #Screen Size
-inch = st.number_input('Screen Size In Inch',min_value=0)
+inch = st.number_input('Screen Size In Inch',min_value=1)
 #resolution
 resolution = st.selectbox('Screen Resolution',['1920x1080','1366x768','1600x900','3840x2160','3200x1800','2880x1800','2560x1600','2560x1440','2304x1440'])
 # tpi = resolution/inch
